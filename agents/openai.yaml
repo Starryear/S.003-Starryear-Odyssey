@@ -1,0 +1,4 @@
+interface:
+  display_name: "《奥德赛》照片叙事双联画"
+  short_description: "将原始照片转译为《奥德赛》叙事抽象双联画"
+  default_prompt: "Use $odyssey-photo-diptych to transform my uploaded photograph into a finished Odyssey narrative diptych."
